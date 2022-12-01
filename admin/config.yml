@@ -1,10 +1,10 @@
 # config.yml
 backend:
-  name: bitbucket
-  repo: chetan.solanki@boomiteam.com/exosphere
-  branch: UU-243
-  auth_type: implicit
-  app_id: qNVyq3aj4FGqxR72A9
+  name: github
+  repo: Chetu16/boomiExosphere
+  branch: main
+  base_url: http://44.202.28.58
+  auth_endpoint: api/auth
 
 #for local testing
 #npx netlify-cms-proxy-server
