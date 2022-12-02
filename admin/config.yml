@@ -1,8 +1,7 @@
 # config.yml
 backend:
-  backend:
- name: git-gateway
- branch: main
+  name: git-gateway
+  branch: main
  
 local_backend: true
 
