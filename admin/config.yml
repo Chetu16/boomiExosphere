@@ -1,15 +1,9 @@
 # config.yml
 backend:
-  name: github
-  repo: Chetu16/boomiExosphere
-  branch: main
-  base_url: http://44.202.28.58
-  auth_endpoint: api/auth
-
-#for local testing
-#npx netlify-cms-proxy-server
-#npm install -g http-server
-#http-server -o -a localhost
+  backend:
+ name: git-gateway
+ branch: main
+ 
 local_backend: true
 
 publish_mode: editorial_workflow
