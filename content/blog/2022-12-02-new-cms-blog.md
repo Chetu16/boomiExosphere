@@ -1,0 +1,6 @@
+---
+title: New CMS Blog
+date: Friday December 2nd, 2022
+category: Setup
+---
+N﻿ew CMS blog
